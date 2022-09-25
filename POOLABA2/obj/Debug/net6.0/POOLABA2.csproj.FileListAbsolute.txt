@@ -1,0 +1,15 @@
+D:\Univer\POOLABA2\POOLABA2\bin\Debug\net6.0\POOLABA2.exe
+D:\Univer\POOLABA2\POOLABA2\bin\Debug\net6.0\POOLABA2.deps.json
+D:\Univer\POOLABA2\POOLABA2\bin\Debug\net6.0\POOLABA2.runtimeconfig.json
+D:\Univer\POOLABA2\POOLABA2\bin\Debug\net6.0\POOLABA2.dll
+D:\Univer\POOLABA2\POOLABA2\bin\Debug\net6.0\POOLABA2.pdb
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.csproj.AssemblyReference.cache
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.AssemblyInfoInputs.cache
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.AssemblyInfo.cs
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.csproj.CoreCompileInputs.cache
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.dll
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\refint\POOLABA2.dll
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.pdb
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\POOLABA2.genruntimeconfig.cache
+D:\Univer\POOLABA2\POOLABA2\obj\Debug\net6.0\ref\POOLABA2.dll
